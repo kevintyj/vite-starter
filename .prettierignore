@@ -1,0 +1,8 @@
+# Artifacts
+build
+dist
+coverage
+
+# Packages
+**/.git
+**/node_modules

@@ -1,0 +1,7 @@
+# Artifacts
+build
+dist
+coverage
+
+# Vite
+vite.config.ts
